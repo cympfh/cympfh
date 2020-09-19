@@ -4,9 +4,6 @@
 [![cympfh](https://cp-logo.vercel.app/codeforces/cympfh)](https://codeforces.com/profile/cympfh)
 [![cympfh](https://cp-logo.vercel.app/atcoder/cympfh)](https://atcoder.jp/users/cympfh)
 
-* MachineLearning, Category, Logic
-* [cympfh/aiura](https://cympfh.cc/aiura/)
-
-#### more?
-
-* [cympfh/me](https://cympfh.cc/me/)
+* ⚡ MachineLearning, Category, Logic
+* [💬 cympfh/aiura](https://cympfh.cc/aiura/)
+* [🤔 cympfh/me](https://cympfh.cc/me/)
