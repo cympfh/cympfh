@@ -7,4 +7,4 @@
 * ⚡ MachineLearning, Category, Logic
 * [💬 cympfh/aiura](https://cympfh.cc/aiura/)
 * [🤔 cympfh/me](https://cympfh.cc/me/)
-* [📫](mailto:cympfh@gmail.com)
+* [📫 cympfh@gmail.com](mailto:cympfh@gmail.com)
