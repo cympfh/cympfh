@@ -6,3 +6,4 @@
 
 [![cympfh](https://cp-logo.vercel.app/codeforces/cympfh)](https://codeforces.com/profile/cympfh)
 [![cympfh](https://cp-logo.vercel.app/atcoder/cympfh)](https://atcoder.jp/users/cympfh)
+[speedrun](https://www.speedrun.com/user/cympfh)
