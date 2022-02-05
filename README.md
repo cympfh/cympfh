@@ -4,6 +4,6 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=cympfh&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![cympfh](https://cp-logo.vercel.app/codeforces/cympfh)](https://codeforces.com/profile/cympfh)
-[![cympfh](https://cp-logo.vercel.app/atcoder/cympfh)](https://atcoder.jp/users/cympfh)
-[speedrun](https://www.speedrun.com/user/cympfh)
+[![cympfh](http://s.cympfh.cc/shields/codeforces/rating?username=cympfh)](https://codeforces.com/profile/cympfh)
+[![cympfh](http://s.cympfh.cc/shields/atcoder/rating?username=cympfh)](https://atcoder.jp/users/cympfh)
+[![cympfh](http://s.cympfh.cc/shields/speedrun/realtime?username=cympfh&gamename=katamarireroll)](https://www.speedrun.com/user/cympfh)
